@@ -5,10 +5,12 @@
 - [ ] 이펙티브 자바
 - [ ] 소프트웨어 장인
 - [ ] 모던 자바 인 액션
+- [ ] 그림으로 배우는 HTTP & NetWork Basic
 
 ### 읽는 중인 책
 - [x] [개발자가 반드시 정복해야 할 객체지향과 디자인 패턴](https://github.com/pjy1368/book/tree/main/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%B0%98%EB%93%9C%EC%8B%9C%20%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%EA%B3%BC%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 - [x] [프로가 되기 위한 웹 기술 입문](https://github.com/pjy1368/book/tree/main/%ED%94%84%EB%A1%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%9B%B9%20%EA%B8%B0%EC%88%A0%20%EC%9E%85%EB%AC%B8)
+- [ ] 스프링 부트와 ASW로 혼자 구현하는 웹 서비스
 
 ### 다 읽은 책
 - [x] [객체지향의 사실과 오해](https://github.com/pjy1368/book/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
